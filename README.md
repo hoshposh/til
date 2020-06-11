@@ -6,12 +6,19 @@
 
 ## Categories
 
+* [Linux shell](#shell)
+
+---
+
+### Shell
+
+* [Sort disk usage output](shell/sort-du.md)
 
 ---
 
 ## Acknowledgements
 
-I "borrowed" this idea from [gkhays/til](https://github.com/gkhays/til).
+Idea _"borrowed"_ and inspired from [gkhays/til](https://github.com/gkhays/til).
 
 ## License
 
