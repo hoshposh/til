@@ -6,9 +6,14 @@
 
 ## Categories
 
+* [gpg](#gpg)
 * [Linux shell](#shell)
 
 ---
+
+### GPG
+
+* [Keybase and GPG](gpg/keybase-gpg.md)
 
 ### Shell
 
