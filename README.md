@@ -16,6 +16,7 @@
 
 ### Ansible
 
+* [Passing multi-word variables on the ansible-playbook command-line](ansible/multi-word-vars-via-cl.md)
 * [Using become on the Ansible command-line](ansible/become-cl.md)
 
 ### Git
