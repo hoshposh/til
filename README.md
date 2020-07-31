@@ -7,6 +7,7 @@
 ## Categories
 
 * [Ansible](#ansible)
+* [AWS](#aws)
 * [git](#git)
 * [gpg](#gpg)
 * [Kubernetes](#Kubernetes)
@@ -19,6 +20,10 @@
 * [Passing multi-word variables on the ansible-playbook command-line](ansible/multi-word-vars-via-cl.md)
 * [Using become on the Ansible command-line](ansible/become-cl.md)
 
+### AWS
+
+* [Docker login with AWS](aws/docker-login.md)
+
 ### Git
 
 * [Resetting HEAD to a previous commit](git/reset-head.md)
@@ -30,6 +35,7 @@
 ### Kubernetes
 
 * [Exec Shell Into A Pod's Container](k8s/pod-exec-shell.md)
+* [Kubectl Default Namespace](k8s/kubectl-def-ns.md)
 
 ### Shell
 
