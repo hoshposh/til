@@ -28,6 +28,7 @@
 ### Git
 
 * [Resetting HEAD to a previous commit](git/reset-head.md)
+* [Untrack a file without deleting it](git/untrack-a-file-without-delete.md)
 
 ### GPG
 
